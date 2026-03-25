@@ -1,5 +1,9 @@
 # GitHub: Mark All Notifications Done
 
+<img width="320" height="126" alt="screenshot1" src="https://github.com/user-attachments/assets/f1619859-538c-4858-ba2a-422bb277fefb" />
+<br />
+<img width="320" height="126" alt="screenshot2" src="https://github.com/user-attachments/assets/488830f9-8424-48cc-ab9a-121caa7b3514" />
+
 A userscript that adds a **"Mark all as done"** button to GitHub notification groups.
 
 GitHub's notifications page only shows a limited number of notifications per repository group. This script adds a button that marks **all** notifications for a repository as done — including the hidden, paginated ones that aren't visible on the page.
